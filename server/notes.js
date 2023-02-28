@@ -1,0 +1,8 @@
+/* 
+start project by downloading these modules
+yarn add cors express bcrypt mongoose axios
+
+
+
+
+*/
